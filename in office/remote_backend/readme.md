@@ -11,3 +11,8 @@ If we want to create a backend in AWS we have to do so using s3 and then backend
 Terraform Cloud backend --> Visible only in Terraform Cloud UI
 
 AWS S3 backend --> Visible in AWS Console under S3
+
+
+for creation of s3 backend the code is written in remote_backend/ backend.tf
+
+![image](https://github.com/user-attachments/assets/a6a7cc1b-436f-4600-9560-202db72e964d)
